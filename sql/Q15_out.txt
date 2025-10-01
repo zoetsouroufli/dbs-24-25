@@ -1,0 +1,6 @@
+visitor_first_name,visitor_last_name,artist_name,artist_surname,avg_score
+Kenneth,Moore,Christos,Karamitsos,10.0000
+George,Foster,Giorgos,Nikolaidis,10.0000
+George,Foster,Katerina,Nikolaidis,10.0000
+Tony,Daugherty,Petros,Karamitsos,10.0000
+Kristen,Brown,Christos,Kosta,10.0000

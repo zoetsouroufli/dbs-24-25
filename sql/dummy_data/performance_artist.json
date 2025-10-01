@@ -1,0 +1,990 @@
+[
+  {
+    "performance_id": 1,
+    "artist_id": 3
+  },
+  {
+    "performance_id": 47,
+    "artist_id": 3
+  },
+  {
+    "performance_id": 2,
+    "artist_id": 17
+  },
+  {
+    "performance_id": 3,
+    "artist_id": 17
+  },
+  {
+    "performance_id": 50,
+    "artist_id": 17
+  },
+  {
+    "performance_id": 78,
+    "artist_id": 17
+  },
+  {
+    "performance_id": 80,
+    "artist_id": 17
+  },
+  {
+    "performance_id": 2,
+    "artist_id": 31
+  },
+  {
+    "performance_id": 3,
+    "artist_id": 31
+  },
+  {
+    "performance_id": 50,
+    "artist_id": 31
+  },
+  {
+    "performance_id": 78,
+    "artist_id": 31
+  },
+  {
+    "performance_id": 80,
+    "artist_id": 31
+  },
+  {
+    "performance_id": 4,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 6,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 71,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 99,
+    "artist_id": 24
+  },
+  {
+    "performance_id": 5,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 71,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 30
+  },
+  {
+    "performance_id": 6,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 71,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 27
+  },
+  {
+    "performance_id": 7,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 26,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 29,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 41,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 82,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 88,
+    "artist_id": 7
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 66,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 68,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 22
+  },
+  {
+    "performance_id": 9,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 38,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 49
+  },
+  {
+    "performance_id": 7,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 10,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 34,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 46
+  },
+  {
+    "performance_id": 11,
+    "artist_id": 21
+  },
+  {
+    "performance_id": 39,
+    "artist_id": 21
+  },
+  {
+    "performance_id": 57,
+    "artist_id": 21
+  },
+  {
+    "performance_id": 67,
+    "artist_id": 21
+  },
+  {
+    "performance_id": 92,
+    "artist_id": 21
+  },
+  {
+    "performance_id": 12,
+    "artist_id": 14
+  },
+  {
+    "performance_id": 33,
+    "artist_id": 14
+  },
+  {
+    "performance_id": 44,
+    "artist_id": 14
+  },
+  {
+    "performance_id": 63,
+    "artist_id": 14
+  },
+  {
+    "performance_id": 13,
+    "artist_id": 26
+  },
+  {
+    "performance_id": 27,
+    "artist_id": 26
+  },
+  {
+    "performance_id": 90,
+    "artist_id": 26
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 11
+  },
+  {
+    "performance_id": 14,
+    "artist_id": 11
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 11
+  },
+  {
+    "performance_id": 52,
+    "artist_id": 11
+  },
+  {
+    "performance_id": 58,
+    "artist_id": 11
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 15,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 77,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 41
+  },
+  {
+    "performance_id": 16,
+    "artist_id": 12
+  },
+  {
+    "performance_id": 39,
+    "artist_id": 12
+  },
+  {
+    "performance_id": 57,
+    "artist_id": 12
+  },
+  {
+    "performance_id": 17,
+    "artist_id": 4
+  },
+  {
+    "performance_id": 39,
+    "artist_id": 4
+  },
+  {
+    "performance_id": 57,
+    "artist_id": 4
+  },
+  {
+    "performance_id": 7,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 18,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 54,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 73,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 76,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 88,
+    "artist_id": 38
+  },
+  {
+    "performance_id": 1,
+    "artist_id": 10
+  },
+  {
+    "performance_id": 19,
+    "artist_id": 10
+  },
+  {
+    "performance_id": 47,
+    "artist_id": 10
+  },
+  {
+    "performance_id": 20,
+    "artist_id": 44
+  },
+  {
+    "performance_id": 23,
+    "artist_id": 44
+  },
+  {
+    "performance_id": 98,
+    "artist_id": 44
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 20
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 20
+  },
+  {
+    "performance_id": 51,
+    "artist_id": 20
+  },
+  {
+    "performance_id": 58,
+    "artist_id": 20
+  },
+  {
+    "performance_id": 23,
+    "artist_id": 15
+  },
+  {
+    "performance_id": 45,
+    "artist_id": 15
+  },
+  {
+    "performance_id": 55,
+    "artist_id": 15
+  },
+  {
+    "performance_id": 6,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 71,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 18
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 8
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 8
+  },
+  {
+    "performance_id": 52,
+    "artist_id": 8
+  },
+  {
+    "performance_id": 56,
+    "artist_id": 8
+  },
+  {
+    "performance_id": 13,
+    "artist_id": 1
+  },
+  {
+    "performance_id": 27,
+    "artist_id": 1
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 52,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 60,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 99,
+    "artist_id": 6
+  },
+  {
+    "performance_id": 12,
+    "artist_id": 45
+  },
+  {
+    "performance_id": 30,
+    "artist_id": 45
+  },
+  {
+    "performance_id": 33,
+    "artist_id": 45
+  },
+  {
+    "performance_id": 44,
+    "artist_id": 45
+  },
+  {
+    "performance_id": 63,
+    "artist_id": 45
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 31,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 59,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 64,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 34
+  },
+  {
+    "performance_id": 12,
+    "artist_id": 36
+  },
+  {
+    "performance_id": 33,
+    "artist_id": 36
+  },
+  {
+    "performance_id": 44,
+    "artist_id": 36
+  },
+  {
+    "performance_id": 63,
+    "artist_id": 36
+  },
+  {
+    "performance_id": 83,
+    "artist_id": 36
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 35,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 2
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 40
+  },
+  {
+    "performance_id": 37,
+    "artist_id": 40
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 40
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 40
+  },
+  {
+    "performance_id": 99,
+    "artist_id": 40
+  },
+  {
+    "performance_id": 39,
+    "artist_id": 13
+  },
+  {
+    "performance_id": 57,
+    "artist_id": 13
+  },
+  {
+    "performance_id": 12,
+    "artist_id": 25
+  },
+  {
+    "performance_id": 33,
+    "artist_id": 25
+  },
+  {
+    "performance_id": 44,
+    "artist_id": 25
+  },
+  {
+    "performance_id": 62,
+    "artist_id": 25
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 43,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 100,
+    "artist_id": 42
+  },
+  {
+    "performance_id": 12,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 33,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 44,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 46,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 49,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 63,
+    "artist_id": 35
+  },
+  {
+    "performance_id": 1,
+    "artist_id": 5
+  },
+  {
+    "performance_id": 47,
+    "artist_id": 5
+  },
+  {
+    "performance_id": 48,
+    "artist_id": 32
+  },
+  {
+    "performance_id": 73,
+    "artist_id": 32
+  },
+  {
+    "performance_id": 89,
+    "artist_id": 32
+  },
+  {
+    "performance_id": 6,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 53,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 81,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 84,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 39,
+    "artist_id": 19
+  },
+  {
+    "performance_id": 57,
+    "artist_id": 19
+  },
+  {
+    "performance_id": 87,
+    "artist_id": 29
+  },
+  {
+    "performance_id": 61,
+    "artist_id": 28
+  },
+  {
+    "performance_id": 2,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 3,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 50,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 52,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 58,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 72,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 78,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 80,
+    "artist_id": 33
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 43
+  },
+  {
+    "performance_id": 22,
+    "artist_id": 43
+  },
+  {
+    "performance_id": 52,
+    "artist_id": 43
+  },
+  {
+    "performance_id": 58,
+    "artist_id": 43
+  },
+  {
+    "performance_id": 69,
+    "artist_id": 43
+  },
+  {
+    "performance_id": 6,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 24,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 70,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 71,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 97,
+    "artist_id": 16
+  },
+  {
+    "performance_id": 8,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 42,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 74,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 86,
+    "artist_id": 39
+  },
+  {
+    "performance_id": 7,
+    "artist_id": 47
+  },
+  {
+    "performance_id": 26,
+    "artist_id": 47
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 47
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 47
+  },
+  {
+    "performance_id": 88,
+    "artist_id": 47
+  },
+  {
+    "performance_id": 21,
+    "artist_id": 50
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 50
+  },
+  {
+    "performance_id": 75,
+    "artist_id": 50
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 50
+  },
+  {
+    "performance_id": 99,
+    "artist_id": 50
+  },
+  {
+    "performance_id": 1,
+    "artist_id": 37
+  },
+  {
+    "performance_id": 47,
+    "artist_id": 37
+  },
+  {
+    "performance_id": 1,
+    "artist_id": 48
+  },
+  {
+    "performance_id": 47,
+    "artist_id": 48
+  },
+  {
+    "performance_id": 7,
+    "artist_id": 23
+  },
+  {
+    "performance_id": 26,
+    "artist_id": 23
+  },
+  {
+    "performance_id": 36,
+    "artist_id": 23
+  },
+  {
+    "performance_id": 79,
+    "artist_id": 23
+  },
+  {
+    "performance_id": 88,
+    "artist_id": 23
+  },
+  {
+    "performance_id": 73,
+    "artist_id": 9
+  },
+  {
+    "performance_id": 89,
+    "artist_id": 9
+  }
+]

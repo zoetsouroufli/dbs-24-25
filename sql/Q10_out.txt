@@ -1,0 +1,4 @@
+genre1,genre2,num_artists
+17,19,3
+2,20,2
+4,14,2

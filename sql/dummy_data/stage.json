@@ -1,0 +1,212 @@
+[
+  {
+    "stage_name": "Main Stage",
+    "stage_description": "Central outdoor stage",
+    "capacity": 60,
+    "image_url": "https://example.com/stages/stage1.jpg",
+    "description": "Main Stage is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Lakeside Vibes",
+    "stage_description": "Peaceful area near the lake",
+    "capacity": 35,
+    "image_url": "https://example.com/stages/stage2.jpg",
+    "description": "Lakeside Vibes is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Dome",
+    "stage_description": "Geodesic dome with immersive lights",
+    "capacity": 40,
+    "image_url": "https://example.com/stages/stage3.jpg",
+    "description": "The Dome is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Electric Forest",
+    "stage_description": "Wooded area with ambient lighting",
+    "capacity": 50,
+    "image_url": "https://example.com/stages/stage4.jpg",
+    "description": "Electric Forest is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Garage",
+    "stage_description": "Urban stage with industrial vibe",
+    "capacity": 30,
+    "image_url": "https://example.com/stages/stage5.jpg",
+    "description": "The Garage is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Attic",
+    "stage_description": "Small indoor acoustic set",
+    "capacity": 20,
+    "image_url": "https://example.com/stages/stage6.jpg",
+    "description": "The Attic is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Bassline Bunker",
+    "stage_description": "Underground techno stage",
+    "capacity": 55,
+    "image_url": "https://example.com/stages/stage7.jpg",
+    "description": "Bassline Bunker is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Sunset Stage",
+    "stage_description": "West-facing stage for golden hour sets",
+    "capacity": 48,
+    "image_url": "https://example.com/stages/stage8.jpg",
+    "description": "Sunset Stage is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Nest",
+    "stage_description": "Elevated platform in trees",
+    "capacity": 25,
+    "image_url": "https://example.com/stages/stage9.jpg",
+    "description": "The Nest is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Firelight Circle",
+    "stage_description": "Bonfire stage with live acoustic music",
+    "capacity": 30,
+    "image_url": "https://example.com/stages/stage10.jpg",
+    "description": "Firelight Circle is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Wave",
+    "stage_description": "Seaside-themed dance zone",
+    "capacity": 45,
+    "image_url": "https://example.com/stages/stage11.jpg",
+    "description": "The Wave is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Orbit Arena",
+    "stage_description": "360\u00b0 experience with LED ceiling",
+    "capacity": 38,
+    "image_url": "https://example.com/stages/stage12.jpg",
+    "description": "Orbit Arena is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Void",
+    "stage_description": "Dark room with minimal visuals",
+    "capacity": 28,
+    "image_url": "https://example.com/stages/stage13.jpg",
+    "description": "The Void is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Echo Bay",
+    "stage_description": "Small bay area with natural reverb",
+    "capacity": 22,
+    "image_url": "https://example.com/stages/stage14.jpg",
+    "description": "Echo Bay is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Zen Garden",
+    "stage_description": "Chillout zone with ambient DJ sets",
+    "capacity": 27,
+    "image_url": "https://example.com/stages/stage15.jpg",
+    "description": "Zen Garden is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Arcade",
+    "stage_description": "Retro-inspired lights and beats",
+    "capacity": 34,
+    "image_url": "https://example.com/stages/stage16.jpg",
+    "description": "The Arcade is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Neon Jungle",
+    "stage_description": "Fluorescent-lit tropical vibes",
+    "capacity": 36,
+    "image_url": "https://example.com/stages/stage17.jpg",
+    "description": "Neon Jungle is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Riverside Rhythm",
+    "stage_description": "Stage by the water with jazz sets",
+    "capacity": 32,
+    "image_url": "https://example.com/stages/stage18.jpg",
+    "description": "Riverside Rhythm is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Skyloft",
+    "stage_description": "Rooftop venue with skyline views",
+    "capacity": 40,
+    "image_url": "https://example.com/stages/stage19.jpg",
+    "description": "Skyloft is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Cloud 9",
+    "stage_description": "Heavenly trance/electro vibe",
+    "capacity": 42,
+    "image_url": "https://example.com/stages/stage20.jpg",
+    "description": "Cloud 9 is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Grindhouse",
+    "stage_description": "Dark edgy venue for metal",
+    "capacity": 33,
+    "image_url": "https://example.com/stages/stage21.jpg",
+    "description": "The Grindhouse is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Acoustic Alley",
+    "stage_description": "Intimate backstreet setting",
+    "capacity": 24,
+    "image_url": "https://example.com/stages/stage22.jpg",
+    "description": "Acoustic Alley is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Pulse Hub",
+    "stage_description": "Festival\u2019s central heartbeat",
+    "capacity": 60,
+    "image_url": "https://example.com/stages/stage23.jpg",
+    "description": "Pulse Hub is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Fusion Point",
+    "stage_description": "Mix of genres and cultures",
+    "capacity": 37,
+    "image_url": "https://example.com/stages/stage24.jpg",
+    "description": "Fusion Point is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Cavern",
+    "stage_description": "Basement vibes with deep bass",
+    "capacity": 31,
+    "image_url": "https://example.com/stages/stage25.jpg",
+    "description": "The Cavern is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Starlight Stage",
+    "stage_description": "Open-sky venue for night shows",
+    "capacity": 54,
+    "image_url": "https://example.com/stages/stage26.jpg",
+    "description": "Starlight Stage is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Balcony",
+    "stage_description": "Small overhead stage",
+    "capacity": 23,
+    "image_url": "https://example.com/stages/stage27.jpg",
+    "description": "The Balcony is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Groove Garden",
+    "stage_description": "Outdoor lawn with funk & soul",
+    "capacity": 41,
+    "image_url": "https://example.com/stages/stage28.jpg",
+    "description": "Groove Garden is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "The Lab",
+    "stage_description": "Experimental music space",
+    "capacity": 29,
+    "image_url": "https://example.com/stages/stage29.jpg",
+    "description": "The Lab is a unique stage setting designed for unforgettable performances."
+  },
+  {
+    "stage_name": "Backyard Beats",
+    "stage_description": "Relaxed sets with beanbags",
+    "capacity": 26,
+    "image_url": "https://example.com/stages/stage30.jpg",
+    "description": "Backyard Beats is a unique stage setting designed for unforgettable performances."
+  }
+]

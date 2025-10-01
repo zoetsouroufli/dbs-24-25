@@ -1,0 +1,41 @@
+festival_year payment_method total_revenue
+2018	Bank Transfer	2237.71
+2018	Cash	3062.59
+2018	Credit Card	3265.05
+2018	Debit Card	3664.40
+2019	Bank Transfer	1937.18
+2019	Cash	2265.55
+2019	Credit Card	2436.93
+2019	Debit Card	2764.96
+2020	Bank Transfer	3371.89
+2020	Cash	2974.11
+2020	Credit Card	2987.90
+2020	Debit Card	2697.71
+2021	Bank Transfer	2204.93
+2021	Cash	2758.78
+2021	Credit Card	2645.32
+2021	Debit Card	3422.36
+2022	Bank Transfer	2252.82
+2022	Cash	2177.10
+2022	Credit Card	2334.68
+2022	Debit Card	2581.44
+2023	Bank Transfer	2116.22
+2023	Cash	2638.41
+2023	Credit Card	2969.52
+2023	Debit Card	2444.65
+2024	Bank Transfer	1954.31
+2024	Cash	2758.07
+2024	Credit Card	3713.29
+2024	Debit Card	2321.11
+2025	Bank Transfer	2506.81
+2025	Cash	2244.72
+2025	Credit Card	2400.04
+2025	Debit Card	3191.62
+2026	Bank Transfer	2951.59
+2026	Cash	2309.09
+2026	Credit Card	2101.12
+2026	Debit Card	2334.10
+2027	Bank Transfer	1499.59
+2027	Cash	2730.83
+2027	Credit Card	2086.59
+2027	Debit Card	3087.70

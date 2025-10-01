@@ -1,0 +1,14 @@
+[
+  {
+    "method_name": "Credit Card"
+  },
+  {
+    "method_name": "Debit Card"
+  },
+  {
+    "method_name": "Cash"
+  },
+  {
+    "method_name": "Bank Transfer"
+  }
+]

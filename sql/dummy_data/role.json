@@ -1,0 +1,14 @@
+[
+  {
+    "role_id": 1,
+    "role": "Technical"
+  },
+  {
+    "role_id": 2,
+    "role": "Support"
+  },
+  {
+    "role_id": 3,
+    "role": "Security"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "artist_name": "Babis",
+    "artist_surname": "Heotis",
+    "artist_pseudonym": "DJ B-Hot",
+    "artist_birthdate": "1988-07-15",
+    "artist_website": "https://babisheotis.com",
+    "artist_insta": "b_h_hot",
+    "image_url": "https://example.com/images/artists/babis_heotis.jpg",
+    "image_description": "A portrait of the artist Babis Heotis."
+  },
+  {
+    "artist_name": "Alexandra",
+    "artist_surname": "Karali",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1993-05-22",
+    "artist_website": "https://alexkarali.com",
+    "artist_insta": "alex_karali",
+    "image_url": "https://example.com/images/artists/alexandra_karali.jpg",
+    "image_description": "A portrait of the artist Alexandra Karali."
+  },
+  {
+    "artist_name": "Zoe",
+    "artist_surname": "Tsouroufli",
+    "artist_pseudonym": "Z-Tsour",
+    "artist_birthdate": "1997-11-08",
+    "artist_website": null,
+    "artist_insta": "z_tsouroufli",
+    "image_url": "https://example.com/images/artists/zoe_tsouroufli.jpg",
+    "image_description": "A portrait of the artist Zoe Tsouroufli."
+  },
+  {
+    "artist_name": "Panagiotis",
+    "artist_surname": "Nikolaidis",
+    "artist_pseudonym": "DJ PanagiotisX",
+    "artist_birthdate": "1991-11-03",
+    "artist_website": null,
+    "artist_insta": "panagiotis_music",
+    "image_url": "https://example.com/images/artists/panagiotis_nikolaidis.jpg",
+    "image_description": "A portrait of the artist Panagiotis Nikolaidis."
+  },
+  {
+    "artist_name": "Christos",
+    "artist_surname": "Vardis",
+    "artist_pseudonym": "MC ChristosBeat",
+    "artist_birthdate": "1964-08-20",
+    "artist_website": "https://christosvardis.com",
+    "artist_insta": "christos_music",
+    "image_url": "https://example.com/images/artists/christos_vardis.jpg",
+    "image_description": "A portrait of the artist Christos Vardis."
+  },
+  {
+    "artist_name": "Stavros",
+    "artist_surname": "Kosta",
+    "artist_pseudonym": "Silent StavrosWave",
+    "artist_birthdate": "1987-06-12",
+    "artist_website": null,
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/stavros_kosta.jpg",
+    "image_description": "A portrait of the artist Stavros Kosta."
+  },
+  {
+    "artist_name": "Kostas",
+    "artist_surname": "Stathopoulou",
+    "artist_pseudonym": "MC KostasFox",
+    "artist_birthdate": "2001-01-16",
+    "artist_website": "https://kostasstathopoulou.com",
+    "artist_insta": "kostas_beats",
+    "image_url": "https://example.com/images/artists/kostas_stathopoulou.jpg",
+    "image_description": "A portrait of the artist Kostas Stathopoulou."
+  },
+  {
+    "artist_name": "Alex",
+    "artist_surname": "Lazarou",
+    "artist_pseudonym": "MC AlexB",
+    "artist_birthdate": "1975-07-27",
+    "artist_website": "https://alexlazarou.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/alex_lazarou.jpg",
+    "image_description": "A portrait of the artist Alex Lazarou."
+  },
+  {
+    "artist_name": "Zoe",
+    "artist_surname": "Stathopoulou",
+    "artist_pseudonym": "Lil ZoeQueen",
+    "artist_birthdate": "1999-03-15",
+    "artist_website": "https://zoestathopoulou.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/zoe_stathopoulou.jpg",
+    "image_description": "A portrait of the artist Zoe Stathopoulou."
+  },
+  {
+    "artist_name": "Panagiotis",
+    "artist_surname": "Kalogeropoulos",
+    "artist_pseudonym": "Funky PanagiotisZone",
+    "artist_birthdate": "1972-05-22",
+    "artist_website": "https://panagiotiskalogeropoulos.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/panagiotis_kalogeropoulos.jpg",
+    "image_description": "A portrait of the artist Panagiotis Kalogeropoulos."
+  },
+  {
+    "artist_name": "Petros",
+    "artist_surname": "Alexiou",
+    "artist_pseudonym": "Ms PetrosBeat",
+    "artist_birthdate": "1958-03-07",
+    "artist_website": "https://petrosalexiou.com",
+    "artist_insta": "petros_beats",
+    "image_url": "https://example.com/images/artists/petros_alexiou.jpg",
+    "image_description": "A portrait of the artist Petros Alexiou."
+  },
+  {
+    "artist_name": "Anna",
+    "artist_surname": "Tsiolis",
+    "artist_pseudonym": "El AnnaBeat",
+    "artist_birthdate": "1960-12-20",
+    "artist_website": null,
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/anna_tsiolis.jpg",
+    "image_description": "A portrait of the artist Anna Tsiolis."
+  },
+  {
+    "artist_name": "Sofia",
+    "artist_surname": "Stathopoulou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1953-11-09",
+    "artist_website": "https://sofiastathopoulou.com",
+    "artist_insta": "sofia_beats",
+    "image_url": "https://example.com/images/artists/sofia_stathopoulou.jpg",
+    "image_description": "A portrait of the artist Sofia Stathopoulou."
+  },
+  {
+    "artist_name": "Efi",
+    "artist_surname": "Tsiolis",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1965-08-13",
+    "artist_website": "https://efitsiolis.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/efi_tsiolis.jpg",
+    "image_description": "A portrait of the artist Efi Tsiolis."
+  },
+  {
+    "artist_name": "Irene",
+    "artist_surname": "Alexiou",
+    "artist_pseudonym": "Funky IreneStorm",
+    "artist_birthdate": "1997-12-15",
+    "artist_website": "https://irenealexiou.com",
+    "artist_insta": "irene_music",
+    "image_url": "https://example.com/images/artists/irene_alexiou.jpg",
+    "image_description": "A portrait of the artist Irene Alexiou."
+  },
+  {
+    "artist_name": "Christos",
+    "artist_surname": "Kosta",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1979-04-26",
+    "artist_website": null,
+    "artist_insta": "christos_beats",
+    "image_url": "https://example.com/images/artists/christos_kosta.jpg",
+    "image_description": "A portrait of the artist Christos Kosta."
+  },
+  {
+    "artist_name": "Alex",
+    "artist_surname": "Ioannou",
+    "artist_pseudonym": "Lil AlexKing",
+    "artist_birthdate": "2002-12-12",
+    "artist_website": null,
+    "artist_insta": "alex_live",
+    "image_url": "https://example.com/images/artists/alex_ioannou.jpg",
+    "image_description": "A portrait of the artist Alex Ioannou."
+  },
+  {
+    "artist_name": "Giorgos",
+    "artist_surname": "Nikolaidis",
+    "artist_pseudonym": "DJ GiorgosStorm",
+    "artist_birthdate": "1974-08-24",
+    "artist_website": null,
+    "artist_insta": "giorgos_live",
+    "image_url": "https://example.com/images/artists/giorgos_nikolaidis.jpg",
+    "image_description": "A portrait of the artist Giorgos Nikolaidis."
+  },
+  {
+    "artist_name": "Irene",
+    "artist_surname": "Petrakis",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1995-11-21",
+    "artist_website": "https://irenepetrakis.com",
+    "artist_insta": "irene_live",
+    "image_url": "https://example.com/images/artists/irene_petrakis.jpg",
+    "image_description": "A portrait of the artist Irene Petrakis."
+  },
+  {
+    "artist_name": "Zoe",
+    "artist_surname": "Andreou",
+    "artist_pseudonym": "Mad ZoeX",
+    "artist_birthdate": "1991-03-02",
+    "artist_website": "https://zoeandreou.com",
+    "artist_insta": "zoe_beats",
+    "image_url": "https://example.com/images/artists/zoe_andreou.jpg",
+    "image_description": "A portrait of the artist Zoe Andreou."
+  },
+  {
+    "artist_name": "Panagiotis",
+    "artist_surname": "Vardis",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1984-04-23",
+    "artist_website": "https://panagiotisvardis.com",
+    "artist_insta": "panagiotis_music",
+    "image_url": "https://example.com/images/artists/panagiotis_vardis.jpg",
+    "image_description": "A portrait of the artist Panagiotis Vardis."
+  },
+  {
+    "artist_name": "Eleni",
+    "artist_surname": "Andreou",
+    "artist_pseudonym": "Dr EleniX",
+    "artist_birthdate": "1965-11-16",
+    "artist_website": null,
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/eleni_andreou.jpg",
+    "image_description": "A portrait of the artist Eleni Andreou."
+  },
+  {
+    "artist_name": "Giorgos",
+    "artist_surname": "Ioannou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1988-10-22",
+    "artist_website": "https://giorgosioannou.com",
+    "artist_insta": "giorgos_music",
+    "image_url": "https://example.com/images/artists/giorgos_ioannou.jpg",
+    "image_description": "A portrait of the artist Giorgos Ioannou."
+  },
+  {
+    "artist_name": "Anna",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1979-06-14",
+    "artist_website": null,
+    "artist_insta": "anna_live",
+    "image_url": "https://example.com/images/artists/anna_marinou.jpg",
+    "image_description": "A portrait of the artist Anna Marinou."
+  },
+  {
+    "artist_name": "Dimitris",
+    "artist_surname": "Stathopoulou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1960-11-06",
+    "artist_website": "https://dimitrisstathopoulou.com",
+    "artist_insta": "dimitris_official",
+    "image_url": "https://example.com/images/artists/dimitris_stathopoulou.jpg",
+    "image_description": "A portrait of the artist Dimitris Stathopoulou."
+  },
+  {
+    "artist_name": "Christos",
+    "artist_surname": "Lazarou",
+    "artist_pseudonym": "DJ ChristosFire",
+    "artist_birthdate": "1988-05-17",
+    "artist_website": "https://christoslazarou.com",
+    "artist_insta": "christos_official",
+    "image_url": "https://example.com/images/artists/christos_lazarou.jpg",
+    "image_description": "A portrait of the artist Christos Lazarou."
+  },
+  {
+    "artist_name": "Nikos",
+    "artist_surname": "Lazarou",
+    "artist_pseudonym": "Mr NikosStorm",
+    "artist_birthdate": "1993-08-08",
+    "artist_website": "https://nikoslazarou.com",
+    "artist_insta": "nikos_official",
+    "image_url": "https://example.com/images/artists/nikos_lazarou.jpg",
+    "image_description": "A portrait of the artist Nikos Lazarou."
+  },
+  {
+    "artist_name": "Sofia",
+    "artist_surname": "Vardis",
+    "artist_pseudonym": "Ms SofiaKing",
+    "artist_birthdate": "1977-07-09",
+    "artist_website": "https://sofiavardis.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/sofia_vardis.jpg",
+    "image_description": "A portrait of the artist Sofia Vardis."
+  },
+  {
+    "artist_name": "Stavros",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": "The StavrosFox",
+    "artist_birthdate": "1995-11-22",
+    "artist_website": null,
+    "artist_insta": "stavros_live",
+    "image_url": "https://example.com/images/artists/stavros_marinou.jpg",
+    "image_description": "A portrait of the artist Stavros Marinou."
+  },
+  {
+    "artist_name": "Katerina",
+    "artist_surname": "Nikolaidis",
+    "artist_pseudonym": "Ms KaterinaFox",
+    "artist_birthdate": "1956-09-23",
+    "artist_website": null,
+    "artist_insta": "katerina_live",
+    "image_url": "https://example.com/images/artists/katerina_nikolaidis.jpg",
+    "image_description": "A portrait of the artist Katerina Nikolaidis."
+  },
+  {
+    "artist_name": "Irene",
+    "artist_surname": "Xenou",
+    "artist_pseudonym": "El IreneFlow",
+    "artist_birthdate": "1981-08-16",
+    "artist_website": "https://irenexenou.com",
+    "artist_insta": "irene_beats",
+    "image_url": "https://example.com/images/artists/irene_xenou.jpg",
+    "image_description": "A portrait of the artist Irene Xenou."
+  },
+  {
+    "artist_name": "Panagiotis",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1992-09-23",
+    "artist_website": "https://panagiotismarinou.com",
+    "artist_insta": "panagiotis_beats",
+    "image_url": "https://example.com/images/artists/panagiotis_marinou.jpg",
+    "image_description": "A portrait of the artist Panagiotis Marinou."
+  },
+  {
+    "artist_name": "Maria",
+    "artist_surname": "Dimitriou",
+    "artist_pseudonym": "MC MariaFire",
+    "artist_birthdate": "1982-04-24",
+    "artist_website": null,
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/maria_dimitriou.jpg",
+    "image_description": "A portrait of the artist Maria Dimitriou."
+  },
+  {
+    "artist_name": "Vasilis",
+    "artist_surname": "Petrou",
+    "artist_pseudonym": "Electric VasilisWave",
+    "artist_birthdate": "1967-10-07",
+    "artist_website": "https://vasilispetrou.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/vasilis_petrou.jpg",
+    "image_description": "A portrait of the artist Vasilis Petrou."
+  },
+  {
+    "artist_name": "Petros",
+    "artist_surname": "Karamitsos",
+    "artist_pseudonym": "Big PetrosZone",
+    "artist_birthdate": "2002-03-26",
+    "artist_website": "https://petroskaramitsos.com",
+    "artist_insta": "petros_music",
+    "image_url": "https://example.com/images/artists/petros_karamitsos.jpg",
+    "image_description": "A portrait of the artist Petros Karamitsos."
+  },
+  {
+    "artist_name": "Kostas",
+    "artist_surname": "Petrakis",
+    "artist_pseudonym": "The KostasKing",
+    "artist_birthdate": "1987-03-23",
+    "artist_website": null,
+    "artist_insta": "kostas_music",
+    "image_url": "https://example.com/images/artists/kostas_petrakis.jpg",
+    "image_description": "A portrait of the artist Kostas Petrakis."
+  },
+  {
+    "artist_name": "Giorgos",
+    "artist_surname": "Kosta",
+    "artist_pseudonym": "Mad GiorgosFlow",
+    "artist_birthdate": "1989-09-14",
+    "artist_website": "https://giorgoskosta.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/giorgos_kosta.jpg",
+    "image_description": "A portrait of the artist Giorgos Kosta."
+  },
+  {
+    "artist_name": "Nikos",
+    "artist_surname": "Karamitsos",
+    "artist_pseudonym": "Electric NikosFlow",
+    "artist_birthdate": "1959-06-10",
+    "artist_website": "https://nikoskaramitsos.com",
+    "artist_insta": "nikos_music",
+    "image_url": "https://example.com/images/artists/nikos_karamitsos.jpg",
+    "image_description": "A portrait of the artist Nikos Karamitsos."
+  },
+  {
+    "artist_name": "Katerina",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": "Mr KaterinaWave",
+    "artist_birthdate": "1977-08-22",
+    "artist_website": "https://katerinamarinou.com",
+    "artist_insta": null,
+    "image_url": "https://example.com/images/artists/katerina_marinou.jpg",
+    "image_description": "A portrait of the artist Katerina Marinou."
+  },
+  {
+    "artist_name": "Christos",
+    "artist_surname": "Tsiolis",
+    "artist_pseudonym": "MC ChristosKing",
+    "artist_birthdate": "2002-03-26",
+    "artist_website": "https://christostsiolis.com",
+    "artist_insta": "christos_music",
+    "image_url": "https://example.com/images/artists/christos_tsiolis.jpg",
+    "image_description": "A portrait of the artist Christos Tsiolis."
+  },
+  {
+    "artist_name": "Stavros",
+    "artist_surname": "Andreou",
+    "artist_pseudonym": "DJ StavrosFire",
+    "artist_birthdate": "1978-10-17",
+    "artist_website": "https://stavrosandreou.com",
+    "artist_insta": "stavros_music",
+    "image_url": "https://example.com/images/artists/stavros_andreou.jpg",
+    "image_description": "A portrait of the artist Stavros Andreou."
+  },
+  {
+    "artist_name": "Christos",
+    "artist_surname": "Karamitsos",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1998-02-12",
+    "artist_website": "https://christoskaramitsos.com",
+    "artist_insta": "christos_beats",
+    "image_url": "https://example.com/images/artists/christos_karamitsos.jpg",
+    "image_description": "A portrait of the artist Christos Karamitsos."
+  },
+  {
+    "artist_name": "Kostas",
+    "artist_surname": "Papadopoulos",
+    "artist_pseudonym": "MC KostasWave",
+    "artist_birthdate": "1953-04-08",
+    "artist_website": "https://kostaspapadopoulos.com",
+    "artist_insta": "kostas_beats",
+    "image_url": "https://example.com/images/artists/kostas_papadopoulos.jpg",
+    "image_description": "A portrait of the artist Kostas Papadopoulos."
+  },
+  {
+    "artist_name": "Sofia",
+    "artist_surname": "Vlachos",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1992-02-27",
+    "artist_website": "https://sofiavlachos.com",
+    "artist_insta": "sofia_live",
+    "image_url": "https://example.com/images/artists/sofia_vlachos.jpg",
+    "image_description": "A portrait of the artist Sofia Vlachos."
+  },
+  {
+    "artist_name": "Alex",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1953-11-11",
+    "artist_website": "https://alexmarinou.com",
+    "artist_insta": "alex_official",
+    "image_url": "https://example.com/images/artists/alex_marinou.jpg",
+    "image_description": "A portrait of the artist Alex Marinou."
+  },
+  {
+    "artist_name": "Panagiotis",
+    "artist_surname": "Vlachos",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1999-01-24",
+    "artist_website": "https://panagiotisvlachos.com",
+    "artist_insta": "panagiotis_music",
+    "image_url": "https://example.com/images/artists/panagiotis_vlachos.jpg",
+    "image_description": "A portrait of the artist Panagiotis Vlachos."
+  },
+  {
+    "artist_name": "Zoe",
+    "artist_surname": "Marinou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1995-09-25",
+    "artist_website": null,
+    "artist_insta": "zoe_beats",
+    "image_url": "https://example.com/images/artists/zoe_marinou.jpg",
+    "image_description": "A portrait of the artist Zoe Marinou."
+  },
+  {
+    "artist_name": "Olga",
+    "artist_surname": "Vardis",
+    "artist_pseudonym": "Funky OlgaQueen",
+    "artist_birthdate": "1958-01-11",
+    "artist_website": null,
+    "artist_insta": "olga_beats",
+    "image_url": "https://example.com/images/artists/olga_vardis.jpg",
+    "image_description": "A portrait of the artist Olga Vardis."
+  },
+  {
+    "artist_name": "Sofia",
+    "artist_surname": "Andreou",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1968-02-05",
+    "artist_website": "https://sofiaandreou.com",
+    "artist_insta": "sofia_live",
+    "image_url": "https://example.com/images/artists/sofia_andreou.jpg",
+    "image_description": "A portrait of the artist Sofia Andreou."
+  },
+  {
+    "artist_name": "Giorgos",
+    "artist_surname": "Pavlidis",
+    "artist_pseudonym": null,
+    "artist_birthdate": "1950-10-11",
+    "artist_website": "https://giorgospavlidis.com",
+    "artist_insta": "giorgos_official",
+    "image_url": "https://example.com/images/artists/giorgos_pavlidis.jpg",
+    "image_description": "A portrait of the artist Giorgos Pavlidis."
+  }
+]

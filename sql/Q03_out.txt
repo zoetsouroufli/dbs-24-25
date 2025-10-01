@@ -1,0 +1,3 @@
+artist_id,artist_name,artist_surname,festival_id,warmup_count
+29,Stavros,Marinou,9,3
+33,Maria,Dimitriou,1,3

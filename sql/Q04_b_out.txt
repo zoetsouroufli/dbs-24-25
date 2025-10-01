@@ -1,0 +1,4 @@
+id select_type table type possible_keys key key_len ref rows extra
+1	SIMPLE	a	const	PRIMARY	PRIMARY	4	const	1	
+1	SIMPLE	e	ALL					494	
+1	SIMPLE	pa	eq_ref	PRIMARY	PRIMARY	8	festivals.e.performance_id,const	1	Using index

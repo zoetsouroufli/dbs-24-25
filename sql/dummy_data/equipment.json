@@ -1,0 +1,44 @@
+[
+  {
+    "equipment_id": 1,
+    "name": "Ηχεία",
+    "image_url": "https://example.com/equipment/equip1.jpg",
+    "description": "Το 'Ηχεία' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 2,
+    "name": "Φώτα",
+    "image_url": "https://example.com/equipment/equip2.jpg",
+    "description": "Το 'Φώτα' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 3,
+    "name": "Μικρόφωνα",
+    "image_url": "https://example.com/equipment/equip3.jpg",
+    "description": "Το 'Μικρόφωνα' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 4,
+    "name": "Κονσόλες",
+    "image_url": "https://example.com/equipment/equip4.jpg",
+    "description": "Το 'Κονσόλες' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 5,
+    "name": "Ειδικά εφέ",
+    "image_url": "https://example.com/equipment/equip5.jpg",
+    "description": "Το 'Ειδικά εφέ' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 6,
+    "name": "Laser show",
+    "image_url": "https://example.com/equipment/equip6.jpg",
+    "description": "Το 'Laser show' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  },
+  {
+    "equipment_id": 7,
+    "name": "Οθόνες LED",
+    "image_url": "https://example.com/equipment/equip7.jpg",
+    "description": "Το 'Οθόνες LED' είναι βασικός εξοπλισμός για την ομαλή διεξαγωγή συναυλιών και εκδηλώσεων."
+  }
+]

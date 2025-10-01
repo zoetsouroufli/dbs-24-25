@@ -1,0 +1,122 @@
+[
+  {
+    "music_genre_id": 1,
+    "music_genre": "Rock",
+    "image_url": "https://example.com/images/genres/rock.jpg",
+    "image_description": "Visual concept representing the Rock music genre."
+  },
+  {
+    "music_genre_id": 2,
+    "music_genre": "Pop",
+    "image_url": "https://example.com/images/genres/pop.jpg",
+    "image_description": "Visual concept representing the Pop music genre."
+  },
+  {
+    "music_genre_id": 3,
+    "music_genre": "Jazz",
+    "image_url": "https://example.com/images/genres/jazz.jpg",
+    "image_description": "Visual concept representing the Jazz music genre."
+  },
+  {
+    "music_genre_id": 4,
+    "music_genre": "Blues",
+    "image_url": "https://example.com/images/genres/blues.jpg",
+    "image_description": "Visual concept representing the Blues music genre."
+  },
+  {
+    "music_genre_id": 5,
+    "music_genre": "Classical",
+    "image_url": "https://example.com/images/genres/classical.jpg",
+    "image_description": "Visual concept representing the Classical music genre."
+  },
+  {
+    "music_genre_id": 6,
+    "music_genre": "Hip Hop",
+    "image_url": "https://example.com/images/genres/hip_hop.jpg",
+    "image_description": "Visual concept representing the Hip Hop music genre."
+  },
+  {
+    "music_genre_id": 7,
+    "music_genre": "Electronic",
+    "image_url": "https://example.com/images/genres/electronic.jpg",
+    "image_description": "Visual concept representing the Electronic music genre."
+  },
+  {
+    "music_genre_id": 8,
+    "music_genre": "Reggae",
+    "image_url": "https://example.com/images/genres/reggae.jpg",
+    "image_description": "Visual concept representing the Reggae music genre."
+  },
+  {
+    "music_genre_id": 9,
+    "music_genre": "Funk",
+    "image_url": "https://example.com/images/genres/funk.jpg",
+    "image_description": "Visual concept representing the Funk music genre."
+  },
+  {
+    "music_genre_id": 10,
+    "music_genre": "Soul",
+    "image_url": "https://example.com/images/genres/soul.jpg",
+    "image_description": "Visual concept representing the Soul music genre."
+  },
+  {
+    "music_genre_id": 11,
+    "music_genre": "R&B",
+    "image_url": "https://example.com/images/genres/r&b.jpg",
+    "image_description": "Visual concept representing the R&B music genre."
+  },
+  {
+    "music_genre_id": 12,
+    "music_genre": "Metal",
+    "image_url": "https://example.com/images/genres/metal.jpg",
+    "image_description": "Visual concept representing the Metal music genre."
+  },
+  {
+    "music_genre_id": 13,
+    "music_genre": "Country",
+    "image_url": "https://example.com/images/genres/country.jpg",
+    "image_description": "Visual concept representing the Country music genre."
+  },
+  {
+    "music_genre_id": 14,
+    "music_genre": "Disco",
+    "image_url": "https://example.com/images/genres/disco.jpg",
+    "image_description": "Visual concept representing the Disco music genre."
+  },
+  {
+    "music_genre_id": 15,
+    "music_genre": "House",
+    "image_url": "https://example.com/images/genres/house.jpg",
+    "image_description": "Visual concept representing the House music genre."
+  },
+  {
+    "music_genre_id": 16,
+    "music_genre": "Techno",
+    "image_url": "https://example.com/images/genres/techno.jpg",
+    "image_description": "Visual concept representing the Techno music genre."
+  },
+  {
+    "music_genre_id": 17,
+    "music_genre": "Punk",
+    "image_url": "https://example.com/images/genres/punk.jpg",
+    "image_description": "Visual concept representing the Punk music genre."
+  },
+  {
+    "music_genre_id": 18,
+    "music_genre": "Trap",
+    "image_url": "https://example.com/images/genres/trap.jpg",
+    "image_description": "Visual concept representing the Trap music genre."
+  },
+  {
+    "music_genre_id": 19,
+    "music_genre": "Indie",
+    "image_url": "https://example.com/images/genres/indie.jpg",
+    "image_description": "Visual concept representing the Indie music genre."
+  },
+  {
+    "music_genre_id": 20,
+    "music_genre": "Ambient",
+    "image_url": "https://example.com/images/genres/ambient.jpg",
+    "image_description": "Visual concept representing the Ambient music genre."
+  }
+]

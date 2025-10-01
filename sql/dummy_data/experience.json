@@ -1,0 +1,22 @@
+[
+  {
+    "experience_id": 1,
+    "experience": "Ειδικευόμενος"
+  },
+  {
+    "experience_id": 2,
+    "experience": "Αρχάριος"
+  },
+  {
+    "experience_id": 3,
+    "experience": "Μέσος"
+  },
+  {
+    "experience_id": 4,
+    "experience": "Έμπειρος"
+  },
+  {
+    "experience_id": 5,
+    "experience": "Πολύ Έμπειρος"
+  }
+]

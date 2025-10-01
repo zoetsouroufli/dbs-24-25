@@ -1,0 +1,122 @@
+[
+  {
+    "music_subgenre_id": 1,
+    "music_subgenre": "Alternative Rock",
+    "image_url": "https://example.com/images/subgenres/alternative_rock.jpg",
+    "image_description": "Visual concept for the subgenre 'Alternative Rock'."
+  },
+  {
+    "music_subgenre_id": 2,
+    "music_subgenre": "Synth Pop",
+    "image_url": "https://example.com/images/subgenres/synth_pop.jpg",
+    "image_description": "Visual concept for the subgenre 'Synth Pop'."
+  },
+  {
+    "music_subgenre_id": 3,
+    "music_subgenre": "Smooth Jazz",
+    "image_url": "https://example.com/images/subgenres/smooth_jazz.jpg",
+    "image_description": "Visual concept for the subgenre 'Smooth Jazz'."
+  },
+  {
+    "music_subgenre_id": 4,
+    "music_subgenre": "Delta Blues",
+    "image_url": "https://example.com/images/subgenres/delta_blues.jpg",
+    "image_description": "Visual concept for the subgenre 'Delta Blues'."
+  },
+  {
+    "music_subgenre_id": 5,
+    "music_subgenre": "Baroque",
+    "image_url": "https://example.com/images/subgenres/baroque.jpg",
+    "image_description": "Visual concept for the subgenre 'Baroque'."
+  },
+  {
+    "music_subgenre_id": 6,
+    "music_subgenre": "Trap Soul",
+    "image_url": "https://example.com/images/subgenres/trap_soul.jpg",
+    "image_description": "Visual concept for the subgenre 'Trap Soul'."
+  },
+  {
+    "music_subgenre_id": 7,
+    "music_subgenre": "Dubstep",
+    "image_url": "https://example.com/images/subgenres/dubstep.jpg",
+    "image_description": "Visual concept for the subgenre 'Dubstep'."
+  },
+  {
+    "music_subgenre_id": 8,
+    "music_subgenre": "Dancehall",
+    "image_url": "https://example.com/images/subgenres/dancehall.jpg",
+    "image_description": "Visual concept for the subgenre 'Dancehall'."
+  },
+  {
+    "music_subgenre_id": 9,
+    "music_subgenre": "Afrobeat",
+    "image_url": "https://example.com/images/subgenres/afrobeat.jpg",
+    "image_description": "Visual concept for the subgenre 'Afrobeat'."
+  },
+  {
+    "music_subgenre_id": 10,
+    "music_subgenre": "Neo Soul",
+    "image_url": "https://example.com/images/subgenres/neo_soul.jpg",
+    "image_description": "Visual concept for the subgenre 'Neo Soul'."
+  },
+  {
+    "music_subgenre_id": 11,
+    "music_subgenre": "Thrash Metal",
+    "image_url": "https://example.com/images/subgenres/thrash_metal.jpg",
+    "image_description": "Visual concept for the subgenre 'Thrash Metal'."
+  },
+  {
+    "music_subgenre_id": 12,
+    "music_subgenre": "Bluegrass",
+    "image_url": "https://example.com/images/subgenres/bluegrass.jpg",
+    "image_description": "Visual concept for the subgenre 'Bluegrass'."
+  },
+  {
+    "music_subgenre_id": 13,
+    "music_subgenre": "Electro Swing",
+    "image_url": "https://example.com/images/subgenres/electro_swing.jpg",
+    "image_description": "Visual concept for the subgenre 'Electro Swing'."
+  },
+  {
+    "music_subgenre_id": 14,
+    "music_subgenre": "Deep House",
+    "image_url": "https://example.com/images/subgenres/deep_house.jpg",
+    "image_description": "Visual concept for the subgenre 'Deep House'."
+  },
+  {
+    "music_subgenre_id": 15,
+    "music_subgenre": "Hard Techno",
+    "image_url": "https://example.com/images/subgenres/hard_techno.jpg",
+    "image_description": "Visual concept for the subgenre 'Hard Techno'."
+  },
+  {
+    "music_subgenre_id": 16,
+    "music_subgenre": "Garage Punk",
+    "image_url": "https://example.com/images/subgenres/garage_punk.jpg",
+    "image_description": "Visual concept for the subgenre 'Garage Punk'."
+  },
+  {
+    "music_subgenre_id": 17,
+    "music_subgenre": "Indie Folk",
+    "image_url": "https://example.com/images/subgenres/indie_folk.jpg",
+    "image_description": "Visual concept for the subgenre 'Indie Folk'."
+  },
+  {
+    "music_subgenre_id": 18,
+    "music_subgenre": "Lo-fi Hip Hop",
+    "image_url": "https://example.com/images/subgenres/lo_fi_hip_hop.jpg",
+    "image_description": "Visual concept for the subgenre 'Lo-fi Hip Hop'."
+  },
+  {
+    "music_subgenre_id": 19,
+    "music_subgenre": "Cinematic",
+    "image_url": "https://example.com/images/subgenres/cinematic.jpg",
+    "image_description": "Visual concept for the subgenre 'Cinematic'."
+  },
+  {
+    "music_subgenre_id": 20,
+    "music_subgenre": "Chillwave",
+    "image_url": "https://example.com/images/subgenres/chillwave.jpg",
+    "image_description": "Visual concept for the subgenre 'Chillwave'."
+  }
+]

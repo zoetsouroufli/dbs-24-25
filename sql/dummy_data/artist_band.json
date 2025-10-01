@@ -1,0 +1,242 @@
+[
+  {
+    "artist_id": 9,
+    "band_id": 1
+  },
+  {
+    "artist_id": 32,
+    "band_id": 1
+  },
+  {
+    "artist_id": 20,
+    "band_id": 2
+  },
+  {
+    "artist_id": 43,
+    "band_id": 2
+  },
+  {
+    "artist_id": 8,
+    "band_id": 2
+  },
+  {
+    "artist_id": 11,
+    "band_id": 2
+  },
+  {
+    "artist_id": 22,
+    "band_id": 2
+  },
+  {
+    "artist_id": 24,
+    "band_id": 3
+  },
+  {
+    "artist_id": 18,
+    "band_id": 3
+  },
+  {
+    "artist_id": 16,
+    "band_id": 3
+  },
+  {
+    "artist_id": 29,
+    "band_id": 3
+  },
+  {
+    "artist_id": 27,
+    "band_id": 3
+  },
+  {
+    "artist_id": 50,
+    "band_id": 4
+  },
+  {
+    "artist_id": 42,
+    "band_id": 4
+  },
+  {
+    "artist_id": 6,
+    "band_id": 4
+  },
+  {
+    "artist_id": 40,
+    "band_id": 4
+  },
+  {
+    "artist_id": 26,
+    "band_id": 5
+  },
+  {
+    "artist_id": 1,
+    "band_id": 5
+  },
+  {
+    "artist_id": 44,
+    "band_id": 6
+  },
+  {
+    "artist_id": 15,
+    "band_id": 6
+  },
+  {
+    "artist_id": 19,
+    "band_id": 7
+  },
+  {
+    "artist_id": 4,
+    "band_id": 7
+  },
+  {
+    "artist_id": 21,
+    "band_id": 7
+  },
+  {
+    "artist_id": 12,
+    "band_id": 7
+  },
+  {
+    "artist_id": 13,
+    "band_id": 7
+  },
+  {
+    "artist_id": 10,
+    "band_id": 8
+  },
+  {
+    "artist_id": 37,
+    "band_id": 8
+  },
+  {
+    "artist_id": 5,
+    "band_id": 8
+  },
+  {
+    "artist_id": 3,
+    "band_id": 8
+  },
+  {
+    "artist_id": 48,
+    "band_id": 8
+  },
+  {
+    "artist_id": 36,
+    "band_id": 9
+  },
+  {
+    "artist_id": 45,
+    "band_id": 9
+  },
+  {
+    "artist_id": 14,
+    "band_id": 9
+  },
+  {
+    "artist_id": 25,
+    "band_id": 9
+  },
+  {
+    "artist_id": 35,
+    "band_id": 9
+  },
+  {
+    "artist_id": 30,
+    "band_id": 10
+  },
+  {
+    "artist_id": 41,
+    "band_id": 10
+  },
+  {
+    "artist_id": 31,
+    "band_id": 11
+  },
+  {
+    "artist_id": 33,
+    "band_id": 11
+  },
+  {
+    "artist_id": 17,
+    "band_id": 11
+  },
+  {
+    "artist_id": 39,
+    "band_id": 12
+  },
+  {
+    "artist_id": 2,
+    "band_id": 12
+  },
+  {
+    "artist_id": 49,
+    "band_id": 12
+  },
+  {
+    "artist_id": 34,
+    "band_id": 12
+  },
+  {
+    "artist_id": 46,
+    "band_id": 12
+  },
+  {
+    "artist_id": 23,
+    "band_id": 13
+  },
+  {
+    "artist_id": 7,
+    "band_id": 13
+  },
+  {
+    "artist_id": 47,
+    "band_id": 13
+  },
+  {
+    "artist_id": 38,
+    "band_id": 13
+  },
+  {
+    "artist_id": 28,
+    "band_id": 14
+  },
+  {
+    "artist_id": 46,
+    "band_id": 4
+  },
+  {
+    "artist_id": 33,
+    "band_id": 2
+  },
+  {
+    "artist_id": 22,
+    "band_id": 12
+  },
+  {
+    "artist_id": 38,
+    "band_id": 1
+  },
+  {
+    "artist_id": 41,
+    "band_id": 12
+  },
+  {
+    "artist_id": 46,
+    "band_id": 13
+  },
+  {
+    "artist_id": 30,
+    "band_id": 3
+  },
+  {
+    "artist_id": 50,
+    "band_id": 15
+  },
+  {
+    "artist_id": 6,
+    "band_id": 2
+  },
+  {
+    "artist_id": 24,
+    "band_id": 4
+  }
+]

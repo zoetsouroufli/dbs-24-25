@@ -1,0 +1,23 @@
+festival_name,festival_date,total_security_needed,total_support_needed,total_technical_needed
+Beats,2019-07-25,2,1,1
+Beats,2019-07-26,2,1,1
+Beats,2019-07-27,3,2,2
+Future,2026-05-26,2,1,1
+Future,2026-05-27,2,1,1
+Future,2026-05-28,4,2,2
+NextWave,2027-05-19,6,4,2
+NextWave,2027-05-20,5,2,2
+Pulse,2018-05-20,7,3,3
+Pulse,2018-05-21,2,1,1
+Pulse,2023-05-17,4,2,2
+Pulse,2023-05-18,4,2,2
+Rhythm,2020-07-02,2,1,1
+Rhythm,2020-07-04,7,4,3
+"Sound Fest",2025-07-29,6,3,3
+"Sound Fest",2025-07-30,2,1,1
+Sounds,2021-06-13,4,2,2
+Sounds,2021-06-15,5,3,2
+Stage,2024-07-28,3,2,1
+Stage,2024-07-29,7,3,3
+Vibes,2022-05-25,4,2,2
+Vibes,2022-05-27,5,3,2

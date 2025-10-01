@@ -1,0 +1,322 @@
+[
+  {
+    "artist_id": 1,
+    "music_genre_id": 3
+  },
+  {
+    "artist_id": 2,
+    "music_genre_id": 8
+  },
+  {
+    "artist_id": 3,
+    "music_genre_id": 3
+  },
+  {
+    "artist_id": 4,
+    "music_genre_id": 9
+  },
+  {
+    "artist_id": 5,
+    "music_genre_id": 2
+  },
+  {
+    "artist_id": 6,
+    "music_genre_id": 8
+  },
+  {
+    "artist_id": 7,
+    "music_genre_id": 5
+  },
+  {
+    "artist_id": 8,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 9,
+    "music_genre_id": 19
+  },
+  {
+    "artist_id": 10,
+    "music_genre_id": 2
+  },
+  {
+    "artist_id": 11,
+    "music_genre_id": 7
+  },
+  {
+    "artist_id": 12,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 13,
+    "music_genre_id": 15
+  },
+  {
+    "artist_id": 14,
+    "music_genre_id": 17
+  },
+  {
+    "artist_id": 15,
+    "music_genre_id": 13
+  },
+  {
+    "artist_id": 16,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 17,
+    "music_genre_id": 8
+  },
+  {
+    "artist_id": 18,
+    "music_genre_id": 10
+  },
+  {
+    "artist_id": 19,
+    "music_genre_id": 1
+  },
+  {
+    "artist_id": 20,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 21,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 22,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 23,
+    "music_genre_id": 15
+  },
+  {
+    "artist_id": 24,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 25,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 26,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 27,
+    "music_genre_id": 1
+  },
+  {
+    "artist_id": 28,
+    "music_genre_id": 14
+  },
+  {
+    "artist_id": 29,
+    "music_genre_id": 8
+  },
+  {
+    "artist_id": 30,
+    "music_genre_id": 10
+  },
+  {
+    "artist_id": 31,
+    "music_genre_id": 6
+  },
+  {
+    "artist_id": 32,
+    "music_genre_id": 17
+  },
+  {
+    "artist_id": 33,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 34,
+    "music_genre_id": 18
+  },
+  {
+    "artist_id": 35,
+    "music_genre_id": 13
+  },
+  {
+    "artist_id": 36,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 37,
+    "music_genre_id": 5
+  },
+  {
+    "artist_id": 38,
+    "music_genre_id": 7
+  },
+  {
+    "artist_id": 39,
+    "music_genre_id": 12
+  },
+  {
+    "artist_id": 40,
+    "music_genre_id": 12
+  },
+  {
+    "artist_id": 41,
+    "music_genre_id": 14
+  },
+  {
+    "artist_id": 42,
+    "music_genre_id": 18
+  },
+  {
+    "artist_id": 43,
+    "music_genre_id": 19
+  },
+  {
+    "artist_id": 44,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 45,
+    "music_genre_id": 2
+  },
+  {
+    "artist_id": 46,
+    "music_genre_id": 1
+  },
+  {
+    "artist_id": 47,
+    "music_genre_id": 19
+  },
+  {
+    "artist_id": 48,
+    "music_genre_id": 5
+  },
+  {
+    "artist_id": 49,
+    "music_genre_id": 2
+  },
+  {
+    "artist_id": 50,
+    "music_genre_id": 17
+  },
+  {
+    "artist_id": 49,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 39,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 41,
+    "music_genre_id": 15
+  },
+  {
+    "artist_id": 25,
+    "music_genre_id": 16
+  },
+  {
+    "artist_id": 44,
+    "music_genre_id": 6
+  },
+  {
+    "artist_id": 9,
+    "music_genre_id": 11
+  },
+  {
+    "artist_id": 39,
+    "music_genre_id": 10
+  },
+  {
+    "artist_id": 49,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 29,
+    "music_genre_id": 15
+  },
+  {
+    "artist_id": 41,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 28,
+    "music_genre_id": 4
+  },
+  {
+    "artist_id": 36,
+    "music_genre_id": 10
+  },
+  {
+    "artist_id": 41,
+    "music_genre_id": 1
+  },
+  {
+    "artist_id": 29,
+    "music_genre_id": 9
+  },
+  {
+    "artist_id": 36,
+    "music_genre_id": 7
+  },
+  {
+    "artist_id": 14,
+    "music_genre_id": 15
+  },
+  {
+    "artist_id": 33,
+    "music_genre_id": 2
+  },
+  {
+    "artist_id": 33,
+    "music_genre_id": 9
+  },
+  {
+    "artist_id": 14,
+    "music_genre_id": 19
+  },
+  {
+    "artist_id": 45,
+    "music_genre_id": 20
+  },
+  {
+    "artist_id": 22,
+    "music_genre_id": 8
+  },
+  {
+    "artist_id": 37,
+    "music_genre_id": 10
+  },
+  {
+    "artist_id": 43,
+    "music_genre_id": 17
+  },
+  {
+    "artist_id": 47,
+    "music_genre_id": 17
+  },
+  {
+    "artist_id": 12,
+    "music_genre_id": 5
+  },
+  {
+    "artist_id": 9,
+    "music_genre_id": 5
+  },
+  {
+    "artist_id": 42,
+    "music_genre_id": 12
+  },
+  {
+    "artist_id": 35,
+    "music_genre_id": 14
+  },
+  {
+    "artist_id": 6,
+    "music_genre_id": 12
+  },
+  {
+    "artist_id": 48,
+    "music_genre_id": 1
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "band_name": "The Rockers",
+    "band_date_creation": "1986-03-07",
+    "band_website": "https://therockers.com",
+    "image_url": "https://example.com/images/bands/the_rockers.jpg",
+    "image_description": "A promotional image of the band 'The Rockers'."
+  },
+  {
+    "band_name": "Jazz Ensemble",
+    "band_date_creation": "2009-12-08",
+    "band_website": null,
+    "image_url": "https://example.com/images/bands/jazz_ensemble.jpg",
+    "image_description": "A promotional image of the band 'Jazz Ensemble'."
+  },
+  {
+    "band_name": "Electro Kings",
+    "band_date_creation": "1991-07-12",
+    "band_website": "https://electrokings.com",
+    "image_url": "https://example.com/images/bands/electro_kings.jpg",
+    "image_description": "A promotional image of the band 'Electro Kings'."
+  },
+  {
+    "band_name": "Samba Stars",
+    "band_date_creation": "2021-03-14",
+    "band_website": "https://sambastars.com",
+    "image_url": "https://example.com/images/bands/samba_stars.jpg",
+    "image_description": "A promotional image of the band 'Samba Stars'."
+  },
+  {
+    "band_name": "Pop Queens",
+    "band_date_creation": "2009-08-16",
+    "band_website": "https://popqueens.com",
+    "image_url": "https://example.com/images/bands/pop_queens.jpg",
+    "image_description": "A promotional image of the band 'Pop Queens'."
+  },
+  {
+    "band_name": "The Vinyls",
+    "band_date_creation": "1979-12-21",
+    "band_website": "https://thevinyls.com",
+    "image_url": "https://example.com/images/bands/the_vinyls.jpg",
+    "image_description": "A promotional image of the band 'The Vinyls'."
+  },
+  {
+    "band_name": "Neon Shadows",
+    "band_date_creation": "1989-01-01",
+    "band_website": "https://neonshadows.com",
+    "image_url": "https://example.com/images/bands/neon_shadows.jpg",
+    "image_description": "A promotional image of the band 'Neon Shadows'."
+  },
+  {
+    "band_name": "Moonlight Riot",
+    "band_date_creation": "1984-03-14",
+    "band_website": "https://moonlightriot.com",
+    "image_url": "https://example.com/images/bands/moonlight_riot.jpg",
+    "image_description": "A promotional image of the band 'Moonlight Riot'."
+  },
+  {
+    "band_name": "Funk Syndicate",
+    "band_date_creation": "1979-01-03",
+    "band_website": "https://funksyndicate.com",
+    "image_url": "https://example.com/images/bands/funk_syndicate.jpg",
+    "image_description": "A promotional image of the band 'Funk Syndicate'."
+  },
+  {
+    "band_name": "The Noisers",
+    "band_date_creation": "2003-06-24",
+    "band_website": "https://thenoisers.com",
+    "image_url": "https://example.com/images/bands/the_noisers.jpg",
+    "image_description": "A promotional image of the band 'The Noisers'."
+  },
+  {
+    "band_name": "Groove Mechanics",
+    "band_date_creation": "1997-08-08",
+    "band_website": "https://groovemechanics.com",
+    "image_url": "https://example.com/images/bands/groove_mechanics.jpg",
+    "image_description": "A promotional image of the band 'Groove Mechanics'."
+  },
+  {
+    "band_name": "Echo Hunters",
+    "band_date_creation": "1988-08-24",
+    "band_website": "https://echohunters.com",
+    "image_url": "https://example.com/images/bands/echo_hunters.jpg",
+    "image_description": "A promotional image of the band 'Echo Hunters'."
+  },
+  {
+    "band_name": "Sunset Rebels",
+    "band_date_creation": "2004-07-01",
+    "band_website": "https://sunsetrebels.com",
+    "image_url": "https://example.com/images/bands/sunset_rebels.jpg",
+    "image_description": "A promotional image of the band 'Sunset Rebels'."
+  },
+  {
+    "band_name": "Wave Makers",
+    "band_date_creation": "1980-02-26",
+    "band_website": "https://wavemakers.com",
+    "image_url": "https://example.com/images/bands/wave_makers.jpg",
+    "image_description": "A promotional image of the band 'Wave Makers'."
+  },
+  {
+    "band_name": "The Frequencies",
+    "band_date_creation": "2003-01-28",
+    "band_website": "https://thefrequencies.com",
+    "image_url": "https://example.com/images/bands/the_frequencies.jpg",
+    "image_description": "A promotional image of the band 'The Frequencies'."
+  }
+]

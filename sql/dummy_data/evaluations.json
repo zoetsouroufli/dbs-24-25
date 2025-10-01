@@ -1,0 +1,4454 @@
+[
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 487,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 794,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 380,
+    "performance_id": 56
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 200,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 789,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 155,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 653,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 743,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 741,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 412,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 742,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 512,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 245,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 164,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 751,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 182,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 559,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 548,
+    "performance_id": 62
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 247,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 553,
+    "performance_id": 21
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 439,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 22,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 179,
+    "performance_id": 17
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 200,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 48,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 247,
+    "performance_id": 22
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 429,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 631,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 117,
+    "performance_id": 41
+  },
+ 
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 716,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 783,
+    "performance_id": 16
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 499,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 652,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 777,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 591,
+    "performance_id": 24
+  },
+  
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 242,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 22,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 465,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 126,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 393,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 232,
+    "performance_id": 43
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 738,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 617,
+    "performance_id": 10
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 493,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 451,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 304,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 529,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 378,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 221,
+    "performance_id": 11
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 84,
+    "performance_id": 21
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 507,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 511,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 737,
+    "performance_id": 16
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 367,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 22,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 739,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 284,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 480,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 657,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 205,
+    "performance_id": 22
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 576,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 40,
+    "performance_id": 59
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 179,
+    "performance_id": 19
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 559,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 107,
+    "performance_id": 9
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 659,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 375,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 326,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 101,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 507,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 334,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 360,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 456,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 419,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 794,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 157,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 27,
+    "performance_id": 14
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 394,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 201,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 58,
+    "performance_id": 62
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 649,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 121,
+    "performance_id": 22
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 380,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 151,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 31,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 27,
+    "performance_id": 12
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 657,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 164,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 16,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 313,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 334,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 171,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 490,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 677,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 545,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 125,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 142,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 411,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 30,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 607,
+    "performance_id": 61
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 271,
+    "performance_id": 50
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 652,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 557,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 455,
+    "performance_id": 23
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 67,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 567,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 347,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 186,
+    "performance_id": 21
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 653,
+    "performance_id": 62
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 244,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 327,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 299,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 599,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 360,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 402,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 505,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 408,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 55,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 296,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 717,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 570,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 99,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 439,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 338,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 122,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 587,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 529,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 99,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 654,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 566,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 669,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 498,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 220,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 189,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 632,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 173,
+    "performance_id": 62
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 162,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 55,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 486,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 281,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 268,
+    "performance_id": 50
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 550,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 543,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 762,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 651,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 133,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 162,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 236,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 474,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 25,
+    "performance_id": 50
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 16,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 331,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 325,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 346,
+    "performance_id": 46
+  },
+ 
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 173,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 704,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 497,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 574,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 775,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 20,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 55,
+    "performance_id": 18
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 16,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 760,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 410,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 594,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 101,
+    "performance_id": 17
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 419,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 299,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 797,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 737,
+    "performance_id": 14
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 411,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 22,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 203,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 57,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 797,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 741,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 610,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 597,
+    "performance_id": 18
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 507,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 617,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 177,
+    "performance_id": 23
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 312,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 617,
+    "performance_id": 59
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 706,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 279,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 400,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 126,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 296,
+    "performance_id": 43
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 682,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 659,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 554,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 610,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 244,
+    "performance_id": 23
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 538,
+    "performance_id": 11
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 424,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 775,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 101,
+    "performance_id": 20
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 211,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 76,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 177,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 110,
+    "performance_id": 15
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 548,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 556,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 789,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 284,
+    "performance_id": 13
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 203,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 632,
+    "performance_id": 32
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 305,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 617,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 86,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 26,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 736,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 303,
+    "performance_id": 43
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 620,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 466,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 117,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 121,
+    "performance_id": 62
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 615,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 435,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 685,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 151,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 26,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 624,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 443,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 493,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 568,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 114,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 121,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 383,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 345,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 223,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 411,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 654,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 394,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 314,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 652,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 607,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 514,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 439,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 754,
+    "performance_id": 44
+  },
+ 
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 532,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 75,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 143,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 751,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 617,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 77,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 228,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 285,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 396,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 20,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 208,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 754,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 568,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 111,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 692,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 526,
+    "performance_id": 11
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 543,
+    "performance_id": 50
+  },
+ 
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 658,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 720,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 630,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 663,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 406,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 617,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 675,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 38,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 25,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 659,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 399,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 17,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 47,
+    "performance_id": 16
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 615,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 321,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 144,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 458,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 186,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 776,
+    "performance_id": 11
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 442,
+    "performance_id": 17
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 40,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 792,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 610,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 703,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 493,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 442,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 574,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 674,
+    "performance_id": 56
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 744,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 439,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 603,
+    "performance_id": 20
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 614,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 464,
+    "performance_id": 10
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 473,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 625,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 57,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 460,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 780,
+    "performance_id": 20
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 419,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 777,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 659,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 77,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 176,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 374,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 451,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 610,
+    "performance_id": 32
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 637,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 507,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 447,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 779,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 797,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 604,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 424,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 751,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 285,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 414,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 754,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 99,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 762,
+    "performance_id": 47
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 346,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 546,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 649,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 269,
+    "performance_id": 11
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 143,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 164,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 493,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 307,
+    "performance_id": 43
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 109,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 792,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 130,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 439,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 367,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 723,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 718,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 382,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 419,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 45,
+    "performance_id": 21
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 779,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 125,
+    "performance_id": 56
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 618,
+    "performance_id": 56
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 716,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 442,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 131,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 110,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 275,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 173,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 492,
+    "performance_id": 46
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 189,
+    "performance_id": 45
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 388,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 459,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 28,
+    "performance_id": 18
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 97,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 9,
+    "performance_id": 4
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 55,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 55,
+    "performance_id": 19
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 381,
+    "performance_id": 23
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 616,
+    "performance_id": 15
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 666,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 469,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 316,
+    "performance_id": 32
+  },
+ 
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 105,
+    "performance_id": 8
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 448,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 540,
+    "performance_id": 9
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 687,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 286,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 456,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 279,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 674,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 657,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 232,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 653,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 245,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 506,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 343,
+    "performance_id": 10
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 565,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 621,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 415,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 321,
+    "performance_id": 38
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 284,
+    "performance_id": 14
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 84,
+    "performance_id": 22
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 97,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 327,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 271,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 472,
+    "performance_id": 26
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 540,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 449,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 647,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 388,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 327,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 117,
+    "performance_id": 22
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 630,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 61,
+    "performance_id": 52
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 197,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 780,
+    "performance_id": 18
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 52,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 459,
+    "performance_id": 59
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 7,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 355,
+    "performance_id": 19
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 385,
+    "performance_id": 68
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 336,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 2,
+    "id_visitor": 774,
+    "performance_id": 2
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 630,
+    "performance_id": 32
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 461,
+    "performance_id": 12
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 775,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 542,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 754,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 447,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 625,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 188,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 706,
+    "performance_id": 63
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 2,
+    "id_visitor": 338,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 46,
+    "performance_id": 50
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 720,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 107,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 45,
+    "performance_id": 29
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 779,
+    "performance_id": 61
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 716,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 674,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 505,
+    "performance_id": 55
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 526,
+    "performance_id": 9
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 291,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 505,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 375,
+    "performance_id": 67
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 618,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 692,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 408,
+    "performance_id": 32
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 360,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 146,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 685,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 48,
+    "performance_id": 53
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 232,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 50,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 161,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 682,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 736,
+    "performance_id": 33
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 458,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 471,
+    "performance_id": 10
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 132,
+    "performance_id": 49
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 497,
+    "performance_id": 39
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 713,
+    "performance_id": 23
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 520,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 594,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 767,
+    "performance_id": 5
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 339,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 1,
+    "overall_impression_rating": 5,
+    "id_visitor": 618,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 511,
+    "performance_id": 60
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 2,
+    "performance_id": 41
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 498,
+    "performance_id": 7
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 340,
+    "performance_id": 40
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 229,
+    "performance_id": 42
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 27,
+    "performance_id": 43
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 313,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 719,
+    "performance_id": 3
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 567,
+    "performance_id": 37
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 511,
+    "performance_id": 56
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 568,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 105,
+    "performance_id": 20
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 2,
+    "id_visitor": 84,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 27,
+    "performance_id": 13
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 4,
+    "id_visitor": 142,
+    "performance_id": 66
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 336,
+    "performance_id": 69
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 425,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 27,
+    "performance_id": 16
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 554,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 2,
+    "overall_impression_rating": 1,
+    "id_visitor": 493,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 292,
+    "performance_id": 48
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 176,
+    "performance_id": 57
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 75,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 604,
+    "performance_id": 58
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 568,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 272,
+    "performance_id": 30
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 563,
+    "performance_id": 51
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 272,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 3,
+    "id_visitor": 505,
+    "performance_id": 54
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 266,
+    "performance_id": 24
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 324,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 3,
+    "id_visitor": 381,
+    "performance_id": 64
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 1,
+    "overall_impression_rating": 3,
+    "id_visitor": 603,
+    "performance_id": 17
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 2,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 76,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 1,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 657,
+    "performance_id": 36
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 5,
+    "organization_rating": 4,
+    "overall_impression_rating": 5,
+    "id_visitor": 83,
+    "performance_id": 1
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 1,
+    "id_visitor": 472,
+    "performance_id": 25
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 3,
+    "overall_impression_rating": 3,
+    "id_visitor": 452,
+    "performance_id": 32
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 5,
+    "overall_impression_rating": 3,
+    "id_visitor": 588,
+    "performance_id": 34
+  },
+  {
+    "artist_performance_rating": 1,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 1,
+    "overall_impression_rating": 4,
+    "id_visitor": 751,
+    "performance_id": 59
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 5,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 321,
+    "performance_id": 27
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 4,
+    "organization_rating": 1,
+    "overall_impression_rating": 1,
+    "id_visitor": 775,
+    "performance_id": 35
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 3,
+    "overall_impression_rating": 5,
+    "id_visitor": 630,
+    "performance_id": 10
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 5,
+    "organization_rating": 2,
+    "overall_impression_rating": 5,
+    "id_visitor": 117,
+    "performance_id": 28
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 5,
+    "id_visitor": 229,
+    "performance_id": 44
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 4,
+    "organization_rating": 4,
+    "overall_impression_rating": 4,
+    "id_visitor": 790,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 2,
+    "stage_presentation_rating": 1,
+    "organization_rating": 4,
+    "overall_impression_rating": 1,
+    "id_visitor": 307,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 3,
+    "stage_presentation_rating": 3,
+    "organization_rating": 5,
+    "overall_impression_rating": 1,
+    "id_visitor": 542,
+    "performance_id": 65
+  },
+  {
+    "artist_performance_rating": 4,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 4,
+    "overall_impression_rating": 2,
+    "id_visitor": 45,
+    "performance_id": 31
+  },
+  {
+    "artist_performance_rating": 3,
+    "sound_and_light_rating": 1,
+    "stage_presentation_rating": 5,
+    "organization_rating": 3,
+    "overall_impression_rating": 4,
+    "id_visitor": 499,
+    "performance_id": 70
+  },
+  {
+    "artist_performance_rating": 2,
+    "sound_and_light_rating": 5,
+    "stage_presentation_rating": 1,
+    "organization_rating": 2,
+    "overall_impression_rating": 2,
+    "id_visitor": 777,
+    "performance_id": 6
+  },
+  {
+    "artist_performance_rating": 5,
+    "sound_and_light_rating": 4,
+    "stage_presentation_rating": 2,
+    "organization_rating": 5,
+    "overall_impression_rating": 4,
+    "id_visitor": 552,
+    "performance_id": 29
+  }
+]

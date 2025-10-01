@@ -1,0 +1,163 @@
+[
+  {
+    "event_id": 21,
+    "id_ticket_category": 2,
+    "code_ean13": null,
+    "timestamp": "2023-05-14 13:46:00.000000",
+    "buyer_id": 1
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-16 18:58:00.000000",
+    "buyer_id": 2
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 3,
+    "code_ean13": null,
+    "timestamp": "2023-05-15 02:24:00.000000",
+    "buyer_id": 3
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2022-05-23 10:24:00.000000",
+    "buyer_id": 4
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2022-05-24 09:03:00.000000",
+    "buyer_id": 5
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-17 08:17:00.000000",
+    "buyer_id": 6
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-15 10:50:00.000000",
+    "buyer_id": 7
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-17 08:27:00.000000",
+    "buyer_id": 8
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2022-05-24 22:40:00.000000",
+    "buyer_id": 9
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-15 18:57:00.000000",
+    "buyer_id": 10
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 2,
+    "code_ean13": null,
+    "timestamp": "2023-05-17 01:11:00.000000",
+    "buyer_id": 11
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 3,
+    "code_ean13": null,
+    "timestamp": "2023-05-16 21:24:00.000000",
+    "buyer_id": 12
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 2,
+    "code_ean13": null,
+    "timestamp": "2022-05-23 04:38:00.000000",
+    "buyer_id": 13
+  },
+  {
+    "event_id": 21,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-14 23:00:00.000000",
+    "buyer_id": 14
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 2,
+    "code_ean13": null,
+    "timestamp": "2023-05-14 23:36:00.000000",
+    "buyer_id": 15
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 3,
+    "code_ean13": null,
+    "timestamp": "2023-05-14 11:26:00.000000",
+    "buyer_id": 16
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2022-05-25 09:10:00.000000",
+    "buyer_id": 17
+  },
+  {
+    "event_id": 18,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2022-05-22 19:05:00.000000",
+    "buyer_id": 18
+  },
+  {
+    "event_id": 22,
+    "id_ticket_category": 2,
+    "code_ean13": null,
+    "timestamp": "2023-05-14 23:30:00.000000",
+    "buyer_id": 19
+  },
+  {
+    "event_id": 35,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2026-05-24 06:55:00.000000",
+    "buyer_id": 19
+  },
+  {
+    "event_id": 15,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2021-06-15 00:46:00.000000",
+    "buyer_id": 17
+  },
+  {
+    "event_id": 3,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2018-05-17 05:22:00.000000",
+    "buyer_id": 4
+  },
+  {
+    "event_id": 24,
+    "id_ticket_category": 1,
+    "code_ean13": null,
+    "timestamp": "2023-05-15 21:37:00.000000",
+    "buyer_id": 9
+  }
+]

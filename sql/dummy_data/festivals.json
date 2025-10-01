@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Pulse",
+    "start": "2018-05-20",
+    "end": "2018-05-22",
+    "poster": "poster1.jpg",
+    "location_id": 7,
+    "image_url": "https://example.com/images/poster1.jpg",
+    "description": "Pulse Festival is an immersive experience of music, culture, and celebration held from 2018-05-20 to 2018-05-22."
+  },
+  {
+    "name": "Beats",
+    "start": "2019-07-25",
+    "end": "2019-07-27",
+    "poster": "poster2.jpg",
+    "location_id": 8,
+    "image_url": "https://example.com/images/poster2.jpg",
+    "description": "Beats Festival is an immersive experience of music, culture, and celebration held from 2019-07-25 to 2019-07-27."
+  },
+  {
+    "name": "Rhythm",
+    "start": "2020-07-02",
+    "end": "2020-07-04",
+    "poster": "poster3.jpg",
+    "location_id": 6,
+    "image_url": "https://example.com/images/poster3.jpg",
+    "description": "Rhythm Festival is an immersive experience of music, culture, and celebration held from 2020-07-02 to 2020-07-04."
+  },
+  {
+    "name": "Sounds",
+    "start": "2021-06-13",
+    "end": "2021-06-15",
+    "poster": "poster4.jpg",
+    "location_id": 1,
+    "image_url": "https://example.com/images/poster4.jpg",
+    "description": "Sounds Festival is an immersive experience of music, culture, and celebration held from 2021-06-13 to 2021-06-15."
+  },
+  {
+    "name": "Vibes",
+    "start": "2022-05-25",
+    "end": "2022-05-27",
+    "poster": "poster5.jpg",
+    "location_id": 5,
+    "image_url": "https://example.com/images/poster5.jpg",
+    "description": "Vibes Festival is an immersive experience of music, culture, and celebration held from 2022-05-25 to 2022-05-27."
+  },
+  {
+    "name": "Pulse",
+    "start": "2023-05-17",
+    "end": "2023-05-19",
+    "poster": "poster6.jpg",
+    "location_id": 3,
+    "image_url": "https://example.com/images/poster6.jpg",
+    "description": "Pulse Festival is an immersive experience of music, culture, and celebration held from 2023-05-17 to 2023-05-19."
+  },
+  {
+    "name": "Stage",
+    "start": "2024-07-28",
+    "end": "2024-07-30",
+    "poster": "poster7.jpg",
+    "location_id": 14,
+    "image_url": "https://example.com/images/poster7.jpg",
+    "description": "Stage Festival is an immersive experience of music, culture, and celebration held from 2024-07-28 to 2024-07-30."
+  },
+  {
+    "name": "Sound Fest",
+    "start": "2025-07-28",
+    "end": "2025-07-30",
+    "poster": "poster8.jpg",
+    "location_id": 13,
+    "image_url": "https://example.com/images/poster8.jpg",
+    "description": "Sound Fest Festival is an immersive experience of music, culture, and celebration held from 2025-07-28 to 2025-07-30."
+  },
+  {
+    "name": "Future",
+    "start": "2026-05-26",
+    "end": "2026-05-28",
+    "poster": "poster9.jpg",
+    "location_id": 9,
+    "image_url": "https://example.com/images/poster9.jpg",
+    "description": "Future Festival is an immersive experience of music, culture, and celebration held from 2026-05-26 to 2026-05-28."
+  },
+  {
+    "name": "NextWave",
+    "start": "2027-05-18",
+    "end": "2027-05-20",
+    "poster": "poster10.jpg",
+    "location_id": 2,
+    "image_url": "https://example.com/images/poster10.jpg",
+    "description": "NextWave Festival is an immersive experience of music, culture, and celebration held from 2027-05-18 to 2027-05-20."
+  }
+]

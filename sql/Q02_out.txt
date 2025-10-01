@@ -1,0 +1,6 @@
+artist_id,artist_name,artist_surname,music_genre,participated_in_2024
+19,Irene,Petrakis,Rock,No
+27,Nikos,Lazarou,Rock,Yes
+41,Stavros,Andreou,Rock,No
+46,Panagiotis,Vlachos,Rock,No
+48,Olga,Vardis,Rock,No

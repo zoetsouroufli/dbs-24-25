@@ -1,0 +1,7 @@
+music_genre,year1,year2,num_appearances
+Ambient,2021,2022,3
+Blues,2021,2022,4
+Funk,2018,2019,4
+Reggae,2022,2023,3
+Reggae,2023,2024,3
+Reggae,2025,2026,5

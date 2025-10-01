@@ -1,0 +1,2 @@
+artist_id artist_name artist_surname avg_artist_rating avg_overall_rating
+4	Panagiotis	Nikolaidis	3.1000	2.8500
